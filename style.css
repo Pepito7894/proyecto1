@@ -1,0 +1,67 @@
+/* font-family: 'Playfair Display', serif; */
+
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #9dab34;
+}
+
+h1{
+    color: #2c2321;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    font-size: 55px;
+    font-family: 'Playfair Display', serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color:#a2e5d2;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.nav-link{
+    color: #a2e5d2;
+    font-size: 18px;
+    
+}
+
+
+.categorias{
+    margin-bottom: 50px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 45px;
+    color: #a2e5d2;
+}
+.card{
+    background-color: #2c2321;
+    border-radius: 20px;
+    padding: 35px;
+    color:#fffab3;
+   
+}
+
+.card-title{
+    color: #fffab3;
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.card-body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#cards{
+    margin-top: 50px;
+}
